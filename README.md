@@ -6,8 +6,8 @@
  If you want to contact me, please leave me a message!
  
 ## Experience
- 1. Internship (SW Engineer) - KASI(Korea Astronomy and Space Science Institute)
- 2. Internship (SW Engineer) - Continental Automotive Korea R&D
+ 1. Internship (SW Engineer) - KASI(Korea Astronomy and Space Science Institute), Center for Space Situational Awareness team
+ 2. Internship (SW Engineer) - Continental Automotive Korea R&D, Passive Safety & Sensoric - Occupant Safety System team
   
 ## Available Skills
 
