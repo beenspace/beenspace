@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white">
-<img src="https://img.shields.io/badge/C#T-239120?style=flat-square&logo=Csharp&logoColor=white">
+<img src="https://img.shields.io/badge/CsharpT-239120?style=flat-square&logo=Csharp&logoColor=white">
 
 <br/>  
 
