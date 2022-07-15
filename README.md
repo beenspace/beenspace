@@ -1,14 +1,17 @@
 ### <div align="center">👨‍💻 🚀</div>  
   
 
-- Hi there
-- I'm Woobeen Seo
-- A Software Engineer 
+## Hi there
+ Good day! I'm Woobeen Seo.
+ If you want to contact me, please leave me a message!
+ 
+## Experience
+ 1. Internship (SW Engineer) - KASI(Korea Astronomy and Space Science Institute)
+ 2. Internship (SW Engineer) - Continental Automotive Korea R&D
   
+## Available Skills
 
-### Available Skills
-
-## Languages
+### Languages
 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
